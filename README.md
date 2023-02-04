@@ -1,6 +1,6 @@
 # Tableau-projects
 
-About Dataset
+# About Dataset
 Shark Tank India Data set.
 Shark Tank India - Season 1 and Season 2 information.
 
@@ -65,5 +65,5 @@ Amit Investment Amount - Amit Investment Amount, in lakhs INR
 Amit Investment Equity - Amit Investment Equity, in percentages
 Amit Debt Amount - Amit Debt Amount, in lakhs INR
 
-About analysis
- Tool used: Excel & Tableau
+# About analysis
+ # Tool used: Excel & Tableau
