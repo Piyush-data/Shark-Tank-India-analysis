@@ -5,6 +5,7 @@ Shark Tank India Data set. <br />
 Shark Tank India - Season 1 and Season 2 information.<br />
 
 One season of SHARKTANK INDIA was broadcasted on SonyLiv OTT/Sony TV.<br />
+![Screenshot (42)](https://user-images.githubusercontent.com/85888663/216770555-017bc2dc-511b-4192-8595-92cfa8727afc.png)
 
 Here is the data dictionary for Shark Tank (India) season's dataset.<br />
 
